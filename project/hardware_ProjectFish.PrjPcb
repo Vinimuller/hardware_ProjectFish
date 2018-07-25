@@ -87,7 +87,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HGJWBGIK
 
 [Document4]
 DocumentPath=..\libraries\raksAltiumLib\RAKS.SchLib
@@ -104,71 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.TXT
-DItemRevisionGUID=
+DocumentUniqueId=AIHGJBQF
 
 [Configuration1]
 Name=Default Configuration
