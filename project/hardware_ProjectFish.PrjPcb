@@ -106,6 +106,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AIHGJBQF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for hardware_ProjectFish\hardware_ProjectFish.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -314,7 +382,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP Deskjet 2540 series (Network)
+TargetPrinter=HP DeskJet 5820 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -322,7 +390,7 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -409,6 +477,8 @@ OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBlindViasPairs=False|PlotBoardProfile=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
 OutputType11=Final
 OutputName11=Final Artwork Prints
 OutputDocumentPath11=
